@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530496376940.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2525403672",
+    "id" : "5EF80A9D",
+    "lastKnownWriteTime" : 1530500271,
+    "last_content_update" : 1530500271040,
+    "path" : "~/RStudio/1_Teaching/SpatialData_RezBazSydney2018/VectorIntro/Vectors.R",
+    "project_path" : "Vectors.R",
+    "properties" : {
+        "cursorPosition" : "120,0",
+        "scrollLine" : "97"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530500315570.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3633641358",
+    "id" : "6FA92841",
+    "lastKnownWriteTime" : 1530501508,
+    "last_content_update" : 1530501508385,
+    "path" : "~/RStudio/1_Teaching/SpatialData_RezBazSydney2018/RasterIntro/Rasters.R",
+    "project_path" : "Rasters.R",
+    "properties" : {
+        "cursorPosition" : "2,16",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
